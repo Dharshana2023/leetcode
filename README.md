@@ -21,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Dharshana2023/leetcode/tree/master/0125-valid-palindrome) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/Dharshana2023/leetcode/tree/master/0401-binary-watch) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/Dharshana2023/leetcode/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
