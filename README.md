@@ -17,10 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Dharshana2023/leetcode/tree/master/0125-valid-palindrome) |
+| [0696-count-binary-substrings](https://github.com/Dharshana2023/leetcode/tree/master/0696-count-binary-substrings) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Dharshana2023/leetcode/tree/master/0125-valid-palindrome) |
+| [0696-count-binary-substrings](https://github.com/Dharshana2023/leetcode/tree/master/0696-count-binary-substrings) |
 ## Backtracking
 |  |
 | ------- |
