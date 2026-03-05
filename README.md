@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Dharshana2023/leetcode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Dharshana2023/leetcode/tree/master/0125-valid-palindrome) |
 | [0696-count-binary-substrings](https://github.com/Dharshana2023/leetcode/tree/master/0696-count-binary-substrings) |
 ## String
@@ -45,9 +46,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Dharshana2023/leetcode/tree/master/0042-trapping-rain-water) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Dharshana2023/leetcode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Dharshana2023/leetcode/tree/master/0042-trapping-rain-water) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Dharshana2023/leetcode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Dharshana2023/leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Dharshana2023/leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
