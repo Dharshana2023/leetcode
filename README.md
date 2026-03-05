@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Dharshana2023/leetcode/tree/master/0125-valid-palindrome) |
 | [0696-count-binary-substrings](https://github.com/Dharshana2023/leetcode/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/Dharshana2023/leetcode/tree/master/0761-special-binary-string) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Dharshana2023/leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 ## Backtracking
 |  |
 | ------- |
