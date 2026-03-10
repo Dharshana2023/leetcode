@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dharshana2023/leetcode/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/Dharshana2023/leetcode/tree/master/0029-divide-two-integers) |
+| [0202-happy-number](https://github.com/Dharshana2023/leetcode/tree/master/0202-happy-number) |
 ## Recursion
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dharshana2023/leetcode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Dharshana2023/leetcode/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/Dharshana2023/leetcode/tree/master/0202-happy-number) |
 | [0696-count-binary-substrings](https://github.com/Dharshana2023/leetcode/tree/master/0696-count-binary-substrings) |
 ## String
 |  |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dharshana2023/leetcode/tree/master/0042-trapping-rain-water) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Dharshana2023/leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
