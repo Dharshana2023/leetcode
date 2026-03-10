@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dharshana2023/leetcode/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/Dharshana2023/leetcode/tree/master/0029-divide-two-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Dharshana2023/leetcode/tree/master/0029-divide-two-integers) |
 | [0401-binary-watch](https://github.com/Dharshana2023/leetcode/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Dharshana2023/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 ## Divide and Conquer
