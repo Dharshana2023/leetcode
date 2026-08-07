@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dharshana2023/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Dharshana2023/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3536-maximum-product-of-two-digits](https://github.com/Dharshana2023/leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/Dharshana2023/leetcode/tree/master/3731-find-missing-elements) |
 ## Array
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Dharshana2023/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2460-apply-operations-to-an-array](https://github.com/Dharshana2023/leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Dharshana2023/leetcode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+| [3731-find-missing-elements](https://github.com/Dharshana2023/leetcode/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Dharshana2023/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Dharshana2023/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Dharshana2023/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [3731-find-missing-elements](https://github.com/Dharshana2023/leetcode/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
 | ------- |
