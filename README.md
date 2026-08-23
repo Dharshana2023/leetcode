@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Dharshana2023/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Dharshana2023/leetcode/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dharshana2023/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1927-sum-game](https://github.com/Dharshana2023/leetcode/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dharshana2023/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3280-convert-date-to-binary](https://github.com/Dharshana2023/leetcode/tree/master/3280-convert-date-to-binary) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Dharshana2023/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/Dharshana2023/leetcode/tree/master/0761-special-binary-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Dharshana2023/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Dharshana2023/leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1927-sum-game](https://github.com/Dharshana2023/leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dharshana2023/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Dharshana2023/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dharshana2023/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/Dharshana2023/leetcode/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dharshana2023/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Enumeration
 |  |
@@ -156,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Dharshana2023/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Dharshana2023/leetcode/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
