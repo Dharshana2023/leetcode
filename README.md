@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/Dharshana2023/leetcode/tree/master/0761-special-binary-string) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dharshana2023/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Dharshana2023/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2784-check-if-array-is-good](https://github.com/Dharshana2023/leetcode/tree/master/2784-check-if-array-is-good) |
 | [3536-maximum-product-of-two-digits](https://github.com/Dharshana2023/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Dharshana2023/leetcode/tree/master/3731-find-missing-elements) |
 ## Array
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dharshana2023/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Dharshana2023/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2460-apply-operations-to-an-array](https://github.com/Dharshana2023/leetcode/tree/master/2460-apply-operations-to-an-array) |
+| [2784-check-if-array-is-good](https://github.com/Dharshana2023/leetcode/tree/master/2784-check-if-array-is-good) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Dharshana2023/leetcode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Dharshana2023/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Dharshana2023/leetcode/tree/master/3731-find-missing-elements) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Dharshana2023/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Dharshana2023/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Dharshana2023/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2784-check-if-array-is-good](https://github.com/Dharshana2023/leetcode/tree/master/2784-check-if-array-is-good) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Dharshana2023/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Dharshana2023/leetcode/tree/master/3731-find-missing-elements) |
 ## Simulation
