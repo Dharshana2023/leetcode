@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Dharshana2023/leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Dharshana2023/leetcode/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/Dharshana2023/leetcode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Dharshana2023/leetcode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Dharshana2023/leetcode/tree/master/0202-happy-number) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Dharshana2023/leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Dharshana2023/leetcode/tree/master/0016-3sum-closest) |
 | [0242-valid-anagram](https://github.com/Dharshana2023/leetcode/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dharshana2023/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0761-special-binary-string](https://github.com/Dharshana2023/leetcode/tree/master/0761-special-binary-string) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Dharshana2023/leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Dharshana2023/leetcode/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/Dharshana2023/leetcode/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/Dharshana2023/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0560-subarray-sum-equals-k](https://github.com/Dharshana2023/leetcode/tree/master/0560-subarray-sum-equals-k) |
