@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Dharshana2023/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Dharshana2023/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Dharshana2023/leetcode/tree/master/0202-happy-number) |
+| [0292-nim-game](https://github.com/Dharshana2023/leetcode/tree/master/0292-nim-game) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dharshana2023/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1927-sum-game](https://github.com/Dharshana2023/leetcode/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dharshana2023/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -170,5 +171,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Dharshana2023/leetcode/tree/master/0292-nim-game) |
 | [1927-sum-game](https://github.com/Dharshana2023/leetcode/tree/master/1927-sum-game) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Dharshana2023/leetcode/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Dharshana2023/leetcode/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Dharshana2023/leetcode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Dharshana2023/leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
