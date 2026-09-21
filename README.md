@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Dharshana2023/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Dharshana2023/leetcode/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/Dharshana2023/leetcode/tree/master/0042-trapping-rain-water) |
+| [0118-pascals-triangle](https://github.com/Dharshana2023/leetcode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Dharshana2023/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0560-subarray-sum-equals-k](https://github.com/Dharshana2023/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dharshana2023/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dharshana2023/leetcode/tree/master/0042-trapping-rain-water) |
+| [0118-pascals-triangle](https://github.com/Dharshana2023/leetcode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Dharshana2023/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/Dharshana2023/leetcode/tree/master/0338-counting-bits) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Dharshana2023/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
