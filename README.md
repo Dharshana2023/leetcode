@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Dharshana2023/leetcode/tree/master/0242-valid-anagram) |
 | [0696-count-binary-substrings](https://github.com/Dharshana2023/leetcode/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/Dharshana2023/leetcode/tree/master/0761-special-binary-string) |
+| [1108-defanging-an-ip-address](https://github.com/Dharshana2023/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/Dharshana2023/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Dharshana2023/leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1927-sum-game](https://github.com/Dharshana2023/leetcode/tree/master/1927-sum-game) |
