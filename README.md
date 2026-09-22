@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Dharshana2023/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Dharshana2023/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Dharshana2023/leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Dharshana2023/leetcode/tree/master/0290-word-pattern) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Dharshana2023/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/Dharshana2023/leetcode/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/Dharshana2023/leetcode/tree/master/0761-special-binary-string) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Dharshana2023/leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Dharshana2023/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Dharshana2023/leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Dharshana2023/leetcode/tree/master/0290-word-pattern) |
 | [0560-subarray-sum-equals-k](https://github.com/Dharshana2023/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Dharshana2023/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Dharshana2023/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
