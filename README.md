@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Dharshana2023/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Dharshana2023/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Dharshana2023/leetcode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Dharshana2023/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Dharshana2023/leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Dharshana2023/leetcode/tree/master/0029-divide-two-integers) |
 | [0168-excel-sheet-column-title](https://github.com/Dharshana2023/leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Dharshana2023/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Dharshana2023/leetcode/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/Dharshana2023/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Dharshana2023/leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Dharshana2023/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Dharshana2023/leetcode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/Dharshana2023/leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Dharshana2023/leetcode/tree/master/0205-isomorphic-strings) |
