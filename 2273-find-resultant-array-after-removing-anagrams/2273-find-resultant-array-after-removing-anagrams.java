@@ -3,7 +3,7 @@ class Solution {
         List<String> l1=new ArrayList<>();
         String prev=" ";
         for(int i=0;i<words.length;i++){
-            char [] ch=words[i].toCharArray();
+            char[] ch=words[i].toCharArray();
             Arrays.sort(ch);
             String curr=String.valueOf(ch);
             if(!curr.equals(prev)){
