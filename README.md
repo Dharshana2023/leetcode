@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/Dharshana2023/leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2784-check-if-array-is-good](https://github.com/Dharshana2023/leetcode/tree/master/2784-check-if-array-is-good) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Dharshana2023/leetcode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+| [3151-special-array-i](https://github.com/Dharshana2023/leetcode/tree/master/3151-special-array-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Dharshana2023/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Dharshana2023/leetcode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Dharshana2023/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
