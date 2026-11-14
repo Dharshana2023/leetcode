@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dharshana2023/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dharshana2023/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Dharshana2023/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0463-island-perimeter](https://github.com/Dharshana2023/leetcode/tree/master/0463-island-perimeter) |
 | [0560-subarray-sum-equals-k](https://github.com/Dharshana2023/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dharshana2023/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Dharshana2023/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -276,4 +277,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Dharshana2023/leetcode/tree/master/0459-repeated-substring-pattern) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/Dharshana2023/leetcode/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/Dharshana2023/leetcode/tree/master/0463-island-perimeter) |
+## Matrix
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/Dharshana2023/leetcode/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
