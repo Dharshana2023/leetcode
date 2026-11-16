@@ -19,8 +19,9 @@ class Solution {
                 matrix[i][j]=0;
             }
          }
-         for(int j:c_set){ 
+         
            for(int i=0;i<r;i++){
+            for(int j:c_set){
                 matrix[i][j]=0;
             }
            }
