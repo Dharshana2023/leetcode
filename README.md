@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dharshana2023/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Dharshana2023/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Dharshana2023/leetcode/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/Dharshana2023/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Dharshana2023/leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Dharshana2023/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dharshana2023/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Dharshana2023/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Dharshana2023/leetcode/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/Dharshana2023/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/Dharshana2023/leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Dharshana2023/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Dharshana2023/leetcode/tree/master/0242-valid-anagram) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Dharshana2023/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0463-island-perimeter](https://github.com/Dharshana2023/leetcode/tree/master/0463-island-perimeter) |
 ## Queue
 |  |
