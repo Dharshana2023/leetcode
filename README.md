@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Dharshana2023/leetcode/tree/master/0463-island-perimeter) |
 | [0560-subarray-sum-equals-k](https://github.com/Dharshana2023/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dharshana2023/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/Dharshana2023/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Dharshana2023/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0881-boats-to-save-people](https://github.com/Dharshana2023/leetcode/tree/master/0881-boats-to-save-people) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Dharshana2023/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Dharshana2023/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Dharshana2023/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Rolling Hash
 |  |
