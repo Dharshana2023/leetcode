@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dharshana2023/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dharshana2023/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Dharshana2023/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0322-coin-change](https://github.com/Dharshana2023/leetcode/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/Dharshana2023/leetcode/tree/master/0463-island-perimeter) |
 | [0560-subarray-sum-equals-k](https://github.com/Dharshana2023/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dharshana2023/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dharshana2023/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dharshana2023/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Dharshana2023/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0322-coin-change](https://github.com/Dharshana2023/leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Dharshana2023/leetcode/tree/master/0338-counting-bits) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Dharshana2023/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Dharshana2023/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Dharshana2023/leetcode/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/Dharshana2023/leetcode/tree/master/0463-island-perimeter) |
 ## Matrix
 |  |
@@ -314,4 +317,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Dharshana2023/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Dharshana2023/leetcode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Dharshana2023/leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
