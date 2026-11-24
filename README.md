@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/Dharshana2023/leetcode/tree/master/0278-first-bad-version) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Dharshana2023/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Dharshana2023/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sliding Window
@@ -333,4 +334,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Dharshana2023/leetcode/tree/master/0322-coin-change) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Dharshana2023/leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
