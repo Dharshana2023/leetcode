@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Dharshana2023/leetcode/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Dharshana2023/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Dharshana2023/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Dharshana2023/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sliding Window
@@ -338,4 +339,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Dharshana2023/leetcode/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Dharshana2023/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
