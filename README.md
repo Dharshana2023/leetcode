@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/Dharshana2023/leetcode/tree/master/0761-special-binary-string) |
 | [0881-boats-to-save-people](https://github.com/Dharshana2023/leetcode/tree/master/0881-boats-to-save-people) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dharshana2023/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Dharshana2023/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Dharshana2023/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2784-check-if-array-is-good](https://github.com/Dharshana2023/leetcode/tree/master/2784-check-if-array-is-good) |
 | [3536-maximum-product-of-two-digits](https://github.com/Dharshana2023/leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Dharshana2023/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Dharshana2023/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dharshana2023/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Dharshana2023/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Dharshana2023/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2460-apply-operations-to-an-array](https://github.com/Dharshana2023/leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2784-check-if-array-is-good](https://github.com/Dharshana2023/leetcode/tree/master/2784-check-if-array-is-good) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Dharshana2023/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Dharshana2023/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sliding Window
 |  |
 | ------- |
