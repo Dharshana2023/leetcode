@@ -15,7 +15,8 @@ class Solution {
         int i = 0;
 
         for(int n : result) {
-            arr[i++] = n;
+            arr[i] = n;
+            i++;
         }
 
         return arr;
